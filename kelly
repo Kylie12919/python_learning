@@ -1,0 +1,7 @@
+name="kelly"
+i=0
+While i in name:
+  if name[i]==2:
+    print(f"{i}")
+i+=name
+
